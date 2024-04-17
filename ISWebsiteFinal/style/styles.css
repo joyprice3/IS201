@@ -1,0 +1,28 @@
+p{
+    font-weight: bold;
+    color: rgb(41, 78, 147);
+}
+
+body{
+    background-color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(41, 78, 147);;
+    text-align: center;
+    border: 4px;
+    border-color:rgb(9, 9, 11);
+    border-style: dashed;
+}
+
+h1{
+    font-size: 24px;
+}
+
+ul{
+    list-style-position: inside;
+
+}
+
+ol{
+    list-style-position:inside;
+
+}
